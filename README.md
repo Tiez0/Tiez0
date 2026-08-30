@@ -102,12 +102,12 @@ software that runs on top of it. Linux everywhere in between.
 #### Editors & IDEs
 
 <p align="center">
-<img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
-<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
-<img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip" />
+<img src="https://img.shields.io/badge/JetBrains-FE2857?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-087CFA?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+<img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+<img src="https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
+<img src="https://img.shields.io/badge/CLion-ED358C?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
+<img src="https://img.shields.io/badge/DataGrip-9775FA?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip" />
 <br/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -116,7 +116,7 @@ software that runs on top of it. Linux everywhere in between.
 #### Workflow
 
 <p align="center">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://img.shields.io/badge/Notion-2383E2?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
