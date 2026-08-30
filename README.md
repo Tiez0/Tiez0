@@ -128,10 +128,22 @@ software that runs on top of it. Linux everywhere in between.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tiez0&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&icon_color=1F6FEB&text_color=808080&rank_icon=github" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiez0&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=808080" alt="top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiez0&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiez0&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiez0&theme=github_dark" alt="profile summary" />
+</picture>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tiez0&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tiez0&theme=github" />
+  <img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tiez0&theme=github_dark" alt="repos per language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tiez0&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tiez0&theme=github" />
+  <img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tiez0&theme=github_dark" alt="most used languages" />
+</picture>
 
 <img height="165" src="https://streak-stats.demolab.com?user=Tiez0&hide_border=true&background=00000000&ring=1F6FEB&fire=6E56CF&currStreakLabel=1F6FEB&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=808080" alt="streak" />
 
