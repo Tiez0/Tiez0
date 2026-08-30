@@ -10,8 +10,6 @@
 
 <a href="https://github.com/Tiez0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Tiez0&style=flat-square&color=1F6FEB&label=profile+views" alt="profile views" />
-
 </div>
 
 <br/>
@@ -87,7 +85,7 @@ software that runs on top of it. Linux everywhere in between.
 <tr>
 <td align="center" width="110"><img src="assets/logos/claude.png" width="46" alt="Claude" /><br/><sub><b>Claude</b></sub></td>
 <td align="center" width="110"><img src="assets/logos/claude-code.png" width="46" alt="Claude Code" /><br/><sub><b>Claude Code</b></sub></td>
-<td align="center" width="110"><img src="assets/logos/gpt.png" width="46" alt="ChatGPT" /><br/><sub><b>ChatGPT</b></sub></td>
+<td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tiez0/Tiez0/main/assets/logos/gpt-dark.png" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tiez0/Tiez0/main/assets/logos/gpt-light.png" /><img src="https://raw.githubusercontent.com/Tiez0/Tiez0/main/assets/logos/gpt-dark.png" width="46" alt="ChatGPT" /></picture><br/><sub><b>ChatGPT</b></sub></td>
 <td align="center" width="110"><img src="assets/logos/gemini.png" width="46" alt="Gemini" /><br/><sub><b>Gemini</b></sub></td>
 <td align="center" width="110"><img src="assets/logos/antigravity.png" width="46" alt="Antigravity" /><br/><sub><b>Antigravity</b></sub></td>
 </tr>
@@ -98,6 +96,7 @@ software that runs on top of it. Linux everywhere in between.
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
 #### Editors & IDEs
